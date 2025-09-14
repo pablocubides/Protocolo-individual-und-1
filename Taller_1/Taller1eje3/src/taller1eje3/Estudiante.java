@@ -26,7 +26,6 @@ public class Estudiante {
         this.Curso = Curso; 
     }
 
-    // Método para mostrar los detalles del estudiante
     public void mostrarDetalles() {
         System.out.println("Nombre: " + Nombre);
         
